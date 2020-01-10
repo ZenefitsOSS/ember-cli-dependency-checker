@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-dependency-checker",
-  "version": "2.0.0-zenefits.1",
+  "version": "2.0.0-zenefits.2",
   "description": "Ember CLI addon for detecting missing npm and bower dependencies before executing ember commands",
   "directories": {
     "doc": "doc",
